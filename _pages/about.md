@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "Yuchen Shao (邵宇宸)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -43,7 +43,7 @@ Achievements
 Projects
 ======
 ### [March 2024 - Present] Research Project "Fusion and Retrieval of Convective Systems Using Satellite Radar Data (卫星雷达资料融合反演对流系统)"
-Overview: The project **transforms multi-channel data from geostationary satellites into radar reflectivity**, providing meteorological forecasting solutions for areas without radar coverage. The creation and channel correlation analysis of the dataset have been completed.
+Overview: The project, conducted under the guidance of [Prof. Hang Yu](https://yuhang.netlify.app/),  **transforms multi-channel data from geostationary satellites into radar reflectivity**, providing meteorological forecasting solutions for areas without radar coverage. The creation and channel correlation analysis of the dataset have been completed.
 
 Responsibilities:
 * Creation of satellite-radar datasets
