@@ -42,7 +42,7 @@ Achievements
 
 Projects
 ======
-### [March 2024 - Present] Research Project "Fusion and Retrieval of Convective Systems Using Satellite Radar Data (卫星雷达资料融合反演对流系统)"
+### 1. [March 2024 - Present] Research Project "Fusion and Retrieval of Convective Systems Using Satellite Radar Data (卫星雷达资料融合反演对流系统)"
 Overview: The project, conducted under the guidance of [Prof. Hang Yu](https://yuhang.netlify.app/),  **transforms multi-channel data from geostationary satellites into radar reflectivity**, providing meteorological forecasting solutions for areas without radar coverage. The creation and channel correlation analysis of the dataset have been completed.
 
 Responsibilities:
@@ -52,7 +52,7 @@ Responsibilities:
 * Design and improvement of deep learning models.
 
 
-### [February 2024-Present] Contest Project "Gangtu—Cross-border Supply Chain Information Collaboration Platform for Steel Furniture"
+### 2. [February 2024-Present] Contest Project "Gangtu—Cross-border Supply Chain Information Collaboration Platform for Steel Furniture"
 Overview: The project involves research with Luoyang Steelite Steel Cabinet Co., Ltd., designing features such as an automated bulk order distribution algorithm, dynamic interactive maps, and visualization charts. The goal is to enhance the information management level of small and medium-sized manufacturing enterprises across various supply chain stages. The project is a finalist in the **2024 Chinese University Student Computer Design Competition (中国大学生计算机设计大赛)** and previously won **second prize in the provincial competition**.
 
 Responsibilities:
@@ -62,10 +62,10 @@ Responsibilities:
 * Implementation of the automated bulk order distribution algorithm.
 
 
-### [March 2024 - May 2024] Course Project ["Garbage Classification Based on an Improved VGG16 Model"](https://github.com/ycshao21/U-Garbage)
+### 3. [March 2024 - May 2024] Course Project ["Garbage Classification Based on an Improved VGG16 Model"](https://github.com/ycshao21/U-Garbage)
 Overview: The VGG16 network architecture was improved by adding residual structures and Convolutional Block Attention Modules (CBAM). Ablation experiments were implemented on [Garbage Classification (12 classes)](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) to verify the feasibility and effectiveness of the improved scheme.
 
-### [November 2023 - Present] Self-Initiated Project ["Grafix"](https://github.com/ycshao21/Grafix)
+### 4. [November 2023 - Present] Self-Initiated Project ["Grafix"](https://github.com/ycshao21/Grafix)
 Overview: A toy rendering engine based on **GLFW and OpenGL/Vulkan** using C++.
 
 Functions:
