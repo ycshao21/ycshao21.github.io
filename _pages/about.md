@@ -51,17 +51,17 @@ Responsibilities:
 * Creation of satellite-radar datasets
 * Analysis of channel correlations
 * Reproduction of state-of-the-art meteorological research papers
-* Design and improvement of deep learning models.
+* Design and improvement of deep learning models
 
 
 ### 2. [February 2024 - July 2024] Contest Project "Gangtu: Cross-border Supply Chain Information Collaboration Platform for Steel Furniture"
-Overview: The project involves research with Luoyang Steelite Steel Cabinet Co., Ltd., designing features such as an automated bulk order distribution algorithm, dynamic interactive maps, and visualization charts. The goal is to enhance the information management level of small and medium-sized manufacturing enterprises across various supply chain stages. The project won first prize in the **2024 Chinese Collegiate Computing Competition**.
+Overview: The project involves research with Luoyang Steelite Steel Cabinet Co., Ltd., designing features such as an automated bulk order distribution algorithm, dynamic interactive maps, and visualization charts. The goal is to enhance the information management level of small and medium-sized manufacturing enterprises across various supply chain stages. The project won **first prize in the 2024 Chinese Collegiate Computing Competition**.
 
 Responsibilities:
 * Function module design
 * Database design
 * Backend implementation for certain module interactions
-* Implementation of the automated bulk order distribution algorithm.
+* Implementation of the automated bulk order distribution algorithm
 
 
 ### 3. [March 2024 - May 2024] Course Project ["Garbage Classification Based on an Improved VGG16 Model"](https://github.com/ycshao21/U-Garbage)
@@ -80,6 +80,6 @@ Features:
 Overview: A Flappy Bird-inspired game was created based on a 2D real-time software rasterizer using Vulkan, integrated with ImGui and GLM libraries. In this game, the player controls a submarine to navigate through randomly generated terrain, avoid obstacles, defeat monsters, and collect coins, offered with an engaging gameplay experience.
 
 Features:
-* Auto-generated terrain to enable infinite, randomized gameplay.
-* Collision detection algorithms for handling interactions with obstacles and enemies.
-* Particle system to simulate visual effects.
+* Auto-generated terrain to enable infinite, randomized gameplay
+* Collision detection algorithms for handling interactions with obstacles and enemies
+* Particle system to simulate visual effects
