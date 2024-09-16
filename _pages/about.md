@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at the School of Computer Engineering and Science, [Shanghai University](https://www.shu.edu.cn/), adept at designing and implementing deep learning models with PyTorch.
+I am a senior student majoring in **Computer Science and Technology** at the [School of Computer Engineering and Science](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/), adept at designing and implementing deep learning models with PyTorch.
 
-I have a strong passion for learning and sharing knowledge, and eager to embrace new opportunities and challenges. For inquiries or collaboration interests, please feel free to contact me via matthewshao21@outlook.com.
+I have a strong passion for learning and sharing knowledge, and eager to embrace new opportunities and challenges. For inquiries or collaboration interests, please feel free to contact me via **matthewshao21@outlook.com**.
 
 
 Skills
@@ -22,27 +22,29 @@ Skills
 
 Research interests
 ======
-* Computer Vision
 * Computer Graphics
+* 3D Reconstruction
+* Computer Vision
 * Deep Learning
-* AI for Science
 * High Performance Computing
 
 
 Achievements
 ======
-* [September 2022] **Winning prize** of the 2022 China Collegiate Programming Contest - Shanghai Collegiate Programming Contest
+[Download PDF](https://ycshao21.github.io/files/Achievements.pdf)
+* [July 2024] **First prize** of the 2024 Chinese Collegiate Computing Competition
 * [April 2024] **Third Prize** in the 15th Lanqiao Cup C/C++ Programming Competition University Group A Provincial Contest
+* [September 2022] **Winning prize** of the 2022 China Collegiate Programming Contest - Shanghai Collegiate Programming Contest
 * [December 2022] **First-Class Academic Scholarship** for outstanding academic performance, Shanghai University
-* [December 2022] Self-Reliance Scholarship, Shanghai University
 * [December 2023] **Second-Class Academic Scholarship** for outstanding academic performance, Shanghai University
+* [December 2022] Self-Reliance Scholarship, Shanghai University
 * [December 2023] Self-Reliance Scholarship, Shanghai University
 * [January 2024] Volunteer presented at Huawei Cup The 2023 ICPC Asia-East Continent Final Contest
 
 
 Projects
 ======
-### 1. [March 2024 - Present] Research Project "Fusion and Retrieval of Convective Systems Using Satellite Radar Data (卫星雷达资料融合反演对流系统)"
+### 1. [March 2024 - Present] Research Project "Fusion and Retrieval of Satellite Radar Data for Convective Systems (卫星雷达资料融合反演对流系统)"
 Overview: The project, conducted under the guidance of [Prof. Hang Yu](https://yuhang.netlify.app/),  **transforms multi-channel data from geostationary satellites into radar reflectivity**, providing meteorological forecasting solutions for areas without radar coverage. The creation and channel correlation analysis of the dataset have been completed.
 
 Responsibilities:
@@ -52,8 +54,8 @@ Responsibilities:
 * Design and improvement of deep learning models.
 
 
-### 2. [February 2024-Present] Contest Project "Gangtu—Cross-border Supply Chain Information Collaboration Platform for Steel Furniture"
-Overview: The project involves research with Luoyang Steelite Steel Cabinet Co., Ltd., designing features such as an automated bulk order distribution algorithm, dynamic interactive maps, and visualization charts. The goal is to enhance the information management level of small and medium-sized manufacturing enterprises across various supply chain stages. The project is a finalist in the **2024 Chinese University Student Computer Design Competition (中国大学生计算机设计大赛)** and previously won **second prize in the provincial competition**.
+### 2. [February 2024 - July 2024] Contest Project "Gangtu: Cross-border Supply Chain Information Collaboration Platform for Steel Furniture"
+Overview: The project involves research with Luoyang Steelite Steel Cabinet Co., Ltd., designing features such as an automated bulk order distribution algorithm, dynamic interactive maps, and visualization charts. The goal is to enhance the information management level of small and medium-sized manufacturing enterprises across various supply chain stages. The project won first prize in the **2024 Chinese Collegiate Computing Competition**.
 
 Responsibilities:
 * Function module design
@@ -65,10 +67,19 @@ Responsibilities:
 ### 3. [March 2024 - May 2024] Course Project ["Garbage Classification Based on an Improved VGG16 Model"](https://github.com/ycshao21/U-Garbage)
 Overview: The VGG16 network architecture was improved by adding residual structures and Convolutional Block Attention Modules (CBAM). Ablation experiments were implemented on [Garbage Classification (12 classes)](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) to verify the feasibility and effectiveness of the improved scheme.
 
-### 4. [November 2023 - Present] Self-Initiated Project ["Grafix"](https://github.com/ycshao21/Grafix)
-Overview: A toy rendering engine based on **GLFW and OpenGL/Vulkan** using C++.
+### 4. [July 2024 - Present] Self-Initiated Project ["Astranox"](https://github.com/ycshao21/Astranox)
+Overview: A toy rendering engine based on **GLFW and Vulkan** using C++.
 
-Functions:
-* 2D graphics rendering
-* Orthographic camera (translation, rotation, scaling)
+Features:
+* 2D/3D graphics rendering
+* Orthographic/perspective camera control (translation, rotation, scaling, yaw, pitch)
+* Texture mapping
+* Batch rendering for primitives
 
+### 5. [September 2023 - November 2023] Course Project "Deep Sea Expedition"
+Overview: A Flappy Bird-inspired game was created based on a 2D real-time software rasterizer using Vulkan, integrated with ImGui and GLM libraries. In this game, the player controls a submarine to navigate through randomly generated terrain, avoid obstacles, defeat monsters, and collect coins, offered with an engaging gameplay experience.
+
+Features:
+* Auto-generated terrain to enable infinite, randomized gameplay.
+* Collision detection algorithms for handling interactions with obstacles and enemies.
+* Particle system to simulate visual effects.

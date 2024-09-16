@@ -21,10 +21,10 @@ repository               : "ycshao21/ycshao21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ycshao21.png"
+  avatar           : "ycshao21.jpg"
   name             : "Yuchen Shao"
   pronouns         : # example: "she/her"  
-  bio              : "Learner of CV, CG, HPC and DL."
+  bio              : "Learner of CG, CV and DL."
   location         : "Shanghai"
   employer         : "Shanghai University"
   uri              : # URL
