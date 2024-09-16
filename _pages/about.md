@@ -67,7 +67,17 @@ Responsibilities:
 ### 3. [March 2024 - May 2024] Course Project ["Garbage Classification Based on an Improved VGG16 Model"](https://github.com/ycshao21/U-Garbage)
 Overview: The VGG16 network architecture was improved by adding residual structures and Convolutional Block Attention Modules (CBAM). Ablation experiments were implemented on [Garbage Classification (12 classes)](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) to verify the feasibility and effectiveness of the improved scheme.
 
-### 4. [July 2024 - Present] Self-Initiated Project ["Astranox"](https://github.com/ycshao21/Astranox)
+
+### 4. [September 2023 - November 2023] Course Project "Deep Sea Expedition"
+Overview: A Flappy Bird-inspired game was created based on a 2D real-time software rasterizer using Vulkan, integrated with ImGui and GLM libraries. In this game, the player controls a submarine to navigate through randomly generated terrain, avoid obstacles, defeat monsters, and collect coins, offered with an engaging gameplay experience.
+
+Features:
+* Auto-generated terrain to enable infinite, randomized gameplay
+* Collision detection algorithms for handling interactions with obstacles and enemies
+* Particle system to simulate visual effects
+
+
+### 5. [July 2024 - Present] Self-Initiated Project ["Astranox"](https://github.com/ycshao21/Astranox)
 Overview: A toy rendering engine based on **GLFW and Vulkan** using C++.
 
 Features:
@@ -76,10 +86,3 @@ Features:
 * Texture mapping
 * Batch rendering for primitives
 
-### 5. [September 2023 - November 2023] Course Project "Deep Sea Expedition"
-Overview: A Flappy Bird-inspired game was created based on a 2D real-time software rasterizer using Vulkan, integrated with ImGui and GLM libraries. In this game, the player controls a submarine to navigate through randomly generated terrain, avoid obstacles, defeat monsters, and collect coins, offered with an engaging gameplay experience.
-
-Features:
-* Auto-generated terrain to enable infinite, randomized gameplay
-* Collision detection algorithms for handling interactions with obstacles and enemies
-* Particle system to simulate visual effects
